@@ -1,0 +1,33 @@
+/* .Main-container{
+    background-color: #fbfafa;
+     height: 300px; 
+    margin-top: -23px;
+}  */
+
+
+
+
+.restaurant{
+    height: 90px;
+    width: 90px;
+    border:1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.restaurant:hover{
+    box-shadow: 4px 4px gray;
+}
+.box-1 :hover{
+    background-color: rgb(161, 160, 160);
+}
+.resutrant-heading{
+    font-size: 25px;
+    padding-top: 5px;
+    padding-left: 30px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center
+}
